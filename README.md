@@ -9,17 +9,6 @@
 - func_timeout (`pip3 install func_timeout`)
 - geocoder (`pip3 install geocoder`)
 
-## Installation instructions
-
-### Windows
-
-Install visual c++ build tools using the tutorial just above this
-Run installer script first! Using `python install_dependencies_win.py`
-
-### Linux
-
-Run installer script first! Using `python3 install_dependencies_linux.py`
-
 ## Commands that can be used for
 
 ### Getting help
