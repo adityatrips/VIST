@@ -350,7 +350,6 @@ def cmd_prompt():
     while True:
         try:
             inp = listen().lower()
-            # inp = input("? ").lower()
         except AttributeError:
             continue
         else:
