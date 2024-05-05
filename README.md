@@ -67,7 +67,7 @@
 
 ### Search the web
 
-- Just say, `search for &lt;your query&gt;`
+- Just say, `search for <your query>`
 - It will detect and then open the web browser, for the query you said
 
 ## Getting to know the config.txt
