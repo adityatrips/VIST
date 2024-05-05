@@ -349,8 +349,8 @@ def cmd_prompt():
     speak("How may I help you?")
     while True:
         try:
-            # inp = listen().lower()
-            inp = input("? ").lower()
+            inp = listen().lower()
+            # inp = input("? ").lower()
         except AttributeError:
             continue
         else:
